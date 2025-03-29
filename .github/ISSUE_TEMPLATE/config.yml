@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: G4Flow Discussions
+    url: https://github.com/kqlio67/g4flow/discussions
+    about: Please ask and answer questions here.
+  - name: G4Flow Security Vulnerabilities
+    url: mailto:kqlio67@github.com
+    about: Please report security vulnerabilities directly to the maintainer.
