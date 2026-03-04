@@ -32,3 +32,6 @@ har_and_cookies/*
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Generated media files (audio, video, images)
+generated_media/

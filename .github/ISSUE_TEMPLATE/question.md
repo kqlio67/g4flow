@@ -20,7 +20,7 @@ assignees: ''
 - OS: [e.g. Windows 10, macOS Monterey, Ubuntu 22.04]
 - Browser: [e.g. Chrome, Firefox, Safari]
 - Python Version: [e.g. 3.8.10]
-- G4Flow Version: [e.g. 1.0.0]
+- G4Flow Version: [e.g. 2.0.0]
 
 ## Screenshots (if applicable)
 <!-- If applicable, add screenshots to help explain your question -->

@@ -34,8 +34,8 @@ assignees: ''
 
 ## AI Model Information
 <!-- Which AI model were you using when the bug occurred? -->
-- Model: [e.g. GPT-4, Claude 3 Haiku, Gemini 1.5 Pro]
-- Feature: [e.g. Text Chat, Image Generation, Image Analysis]
+- Model: [e.g. GPT-4, DeepSeek-R1, Gemini 2.0 Flash]
+- Feature: [e.g. Text Chat, Image Generation, Image Variation, Audio (TTS), Video Generation, Document Upload, Web Search, Custom Provider, JSON Mode, Reasoning Display]
 
 ## Error Messages/Logs
 <!-- If applicable, paste any error messages or logs -->

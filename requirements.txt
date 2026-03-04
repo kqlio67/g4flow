@@ -1,3 +1,7 @@
 streamlit
 g4f
 g4f[search]
+pypdf2
+pdfplumber
+python-docx
+docx2txt
